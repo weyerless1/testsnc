@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>testsnc1</name>
+        <order/>
+        <roles>x_ahho_testsnc1.user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>shilpa.tisgaonkar@snc</sys_created_by>
+        <sys_created_on>2017-11-21 22:41:19</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>33977dce13ae0b00b57bbe622244b09e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>testsnc1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="testsnc1" source="x_ahho_testsnc1">e397b5ce13ae0b00b57bbe622244b0f4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="testsnc1">e397b5ce13ae0b00b57bbe622244b0f4</sys_scope>
+        <sys_update_name>sys_ui_application_33977dce13ae0b00b57bbe622244b09e</sys_update_name>
+        <sys_updated_by>shilpa.tisgaonkar@snc</sys_updated_by>
+        <sys_updated_on>2017-11-21 22:41:19</sys_updated_on>
+    </sys_ui_application>
+</record_update>
